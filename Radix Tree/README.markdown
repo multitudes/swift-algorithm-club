@@ -6,7 +6,7 @@ This is an example of a radix tree (image from wikipedia.org):
 
 ![](Images/radixtree.png)
 
-## Implemenation
+## Implementation
 
 The radix tree is represented by a `RadixTree` object. This class has one member variable, `root`, of type `Root`. The `Root` is the object at the top of every `RadixTree`. 
 
